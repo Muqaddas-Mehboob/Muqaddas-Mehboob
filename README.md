@@ -2,12 +2,11 @@
 
 # 💫 About Me:
 👩‍💻 Hi, I'm Muqaddas Mehboob, a Software Engineering student from Pakistan.  
-🌱 Currently learning: Web Development, React, and Communication Skills.  
-🚀 Building personal projects to grow on GitHub and LinkedIn.  
-📚 Passionate about English learning and modern tech.  
+🌱 Currently learning: Web Development, React, and Node Js to build responsive and scalable projects. 
+🚀 Building personal projects to grow on GitHub and LinkedIn.   
 
 # 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/muqaddas-mehboob)
+[LinkedIn-Muqaddas Mehboob](https://linkedin.com/in/muqaddas-mehboob)
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,11 +33,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
 
-# 🎓 Academics:
-🎯 CGPA: 3.9 / 4.0  
+<!--# 🎓 Academics:
+🎯 CGPA: 3.87 / 4.0  
 📖 Courses: DSA, Computer Architecture, Business Communication, Software Design  
 
-<!-- # 🏆 Achievements:
+ # 🏆 Achievements:
 🏅 Completed 180+ LeetCode Problems  
 📣 Speaker at XYZ Society Meetup  
 🎯 Winner - XYZ Hackathon   -->
