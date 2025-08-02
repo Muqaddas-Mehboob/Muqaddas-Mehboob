@@ -1,6 +1,7 @@
 # 💫 About Me:
 👩‍💻 Hi, I'm Muqaddas Mehboob, a Software Engineering student from Pakistan.  
-🌱 Currently learning: Web Development, React, and Node Js to build responsive and scalable projects. 
+🌱 Currently learning: Web Development, React, and Node Js to build responsive and scalable projects.
+</br>
 🚀 Building personal projects to grow on GitHub and LinkedIn.   
 
 # 🌐 Socials:
