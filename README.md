@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Muqaddas-Mehboob/Muqaddas-Mehboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+👩‍💻 Hi, I'm Muqaddas Mehboob, a Software Engineering student from Pakistan.  
+🌱 Currently learning: Web Development, React, and Communication Skills.  
+🚀 Building personal projects to grow on GitHub and LinkedIn.  
+📚 Passionate about English learning and modern tech.  
 
-Here are some ideas to get you started:
+# 🌐 Socials:
+[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your@email.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+React | JavaScript | HTML | CSS | C++ | Python | Git | TailwindCSS | Redux Toolkit | Firebase  
+
+# 🎓 Academics:
+🎯 CGPA: 3.9 / 4.0  
+📖 Courses: DSA, Computer Architecture, Business Communication, Software Design  
+
+# 🏆 Achievements:
+🏅 Completed 180+ LeetCode Problems  
+📣 Speaker at XYZ Society Meetup  
+🎯 Winner - XYZ Hackathon  
+
+# 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
