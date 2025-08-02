@@ -7,7 +7,7 @@
 📚 Passionate about English learning and modern tech.  
 
 # 🌐 Socials:
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muqaddas-mehboob/))
+[LinkedIn](https://linkedin.com/in/muqaddas-mehboob)
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
