@@ -38,11 +38,14 @@
 🎯 CGPA: 3.9 / 4.0  
 📖 Courses: DSA, Computer Architecture, Business Communication, Software Design  
 
-# 🏆 Achievements:
+<!-- # 🏆 Achievements:
 🏅 Completed 180+ LeetCode Problems  
 📣 Speaker at XYZ Society Meetup  
-🎯 Winner - XYZ Hackathon  
+🎯 Winner - XYZ Hackathon   -->
 
-# 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=false)
+
 
