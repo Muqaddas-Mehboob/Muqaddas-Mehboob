@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👩‍💻 Hi, I'm Muqaddas Mehboob, a Software Engineering student from Pakistan.  
 🌱 Currently learning: Web Development, React, and Node Js to build responsive and scalable projects. 
